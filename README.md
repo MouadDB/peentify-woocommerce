@@ -30,5 +30,5 @@ This is a WooCommerce plugin that helps to integrate your peentify system with w
 ### Asked Questions 
 ##### For who this plugin?
 This plugin is just for peentify customers
-##### why this plugin
+##### why this plugin?
 This plugin can add orders to your peentify system automatiqly when your client create an order
