@@ -82,6 +82,7 @@ class PeentifyWooCommerce {
 			'id' => 'peentify_integrate_with_system',
 			'label' => 'Integrate With Peentify',
 			'class' => 'py-integrate-with-peentify-checkbox',
+			'cbvalue' => true,
 			'desc_tip' => true,
 		);
 		woocommerce_wp_checkbox( $args );
